@@ -22,7 +22,6 @@ body {
   list-style-type: none;
   padding-top: 0px;
   margin-top: 0px;
-  
 }
 
 .nav-flex {
@@ -37,15 +36,16 @@ body {
   position: sticky fixed;
   left: 75px;
   padding: 16px 594px 0px 550px;
-
 }
 
 .nav-link-1 {
   padding: 10px 16px 10px 12px;
 }
+
 .nav-link-2 {
   padding: 10px 32px 10px 17px;
 }
+
 .nav-link-3 {
   padding: 10px 12px 10px 2px
 }
@@ -65,7 +65,7 @@ body {
   text-align: center;
 }
 .bg-container{
-  margin-left 100px;
+  margin-left: 100px;
 }
 
 .intro {
@@ -141,7 +141,7 @@ span {
   }
 
   .heading-paragraph {
-    border: solid 10px red;
+    /* border: solid 10px red; */
     max-width: 80%;
   }
 
@@ -190,6 +190,5 @@ span {
   hr {
     height: 5px;
     color: blue;
-    background-color: blue;
-  
+    background-color: blue; 
 }
